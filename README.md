@@ -1,1 +1,1 @@
-# Yara
+# Yara Configuration Files and Rules
